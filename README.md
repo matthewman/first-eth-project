@@ -1,5 +1,5 @@
 # first-eth-project
-My first Ethereum project
+My first Ethereum project, using Web3 to interact with a Solidity smart contract.
 
 Created by following tutorial from [Coursetro](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners)
 
